@@ -20,5 +20,5 @@ Visual Studio 2022
 MSTest
 NuGet package:
 - Selenium.Support
-- Selenium.WabDriver
+- Selenium.WebDriver
 - Selenium.WebDriver.ChromeDriver
