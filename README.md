@@ -17,7 +17,9 @@ PTE72BSeleniumChrdriver.cs
 Kell hozzá
 ----------
 Google Chrome
+
 Visual Studio 2022
+
 MSTest
 
 NuGet package:
