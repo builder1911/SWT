@@ -5,6 +5,7 @@ PTE72B_teszt.cs
 Kell hozzá:
 -----------
 Visual Studio 2022
+
 NuGet package:
 - MSTest by Microsoft
 
@@ -18,6 +19,7 @@ Kell hozzá
 Google Chrome
 Visual Studio 2022
 MSTest
+
 NuGet package:
 - Selenium.Support
 - Selenium.WebDriver
